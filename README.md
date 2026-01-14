@@ -28,7 +28,7 @@ Understanding and interpreting feature importance
 How to Run the Project:
 
 Clone the repository 
-git clone [[https://github.com/your-username/credit-risk-prediction.git](https://github.com/Basma-Yasmine/-Customer-Churn-Prediction-Bank-Customers-/tree/main)](https://github.com/Basma-Yasmine/-Customer-Churn-Prediction-Bank-Customers-/tree/main)
+git clone https://github.com/Basma-Yasmine/-Customer-Churn-Prediction-Bank-Customers-/tree/main
 
 Install dependencies 
 pip install pandas numpy matplotlib seaborn scikit-learn
